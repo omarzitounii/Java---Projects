@@ -1,0 +1,17 @@
+Game: Magic
+Card: Dragonlord Atarka
+Card: Shivan Dragon
+Card: Wrath of God
+Card: Guarder
+Property: race | string
+Property: power | integer
+CardProperty: Dragonlord Atarka | power | 96
+CardProperty: Shivan Dragon | power | 76
+CardProperty: Wrath of God | power | 98
+CardProperty: Guarder | power | 91
+CardProperty: Dragonlord Atarka | race | Dragon
+CardProperty: Shivan Dragon | race | Dragon
+CardProperty: Wrath of God | race | Angel
+CardProperty: Guarder | race | Angel
+GameRuleInteger: power | >
+GameRuleString: race | Dragon | Angel
