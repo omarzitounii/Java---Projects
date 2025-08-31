@@ -3,7 +3,8 @@
 This project was originally created as a university assignment inside a Gradle project with unit tests. The project is rebuilt in 2025 as a way to refresh and practice my Java skills — this time kept simpler, without Gradle or tests.
 
 <img src="shell.PNG" style="transform: scale(1.5); transform-origin: top left;"/>
-<<br>
+<br>
+<br>
 
 ## What is it?
 
@@ -48,8 +49,7 @@ Saved games are stored in the `games/` folder.
 Example of a saved game file (`Magic.game`):
 
 <img src="game_example.PNG" />
-<<br>
-
+<br>
 
 ## How to Try It
 
